@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="CoolUiWeather" />
+    <version value="1"/>
+    <list>
+        <mapping class="com.example.penghuijun.cooluiweather.db.Province"/>
+        <mapping class="com.example.penghuijun.cooluiweather.db.City"/>
+        <mapping class="com.example.penghuijun.cooluiweather.db.County"/>
+    </list>
+</litepal>
